@@ -1,0 +1,17 @@
+program
+
+program
+{
+	IF(a==b) THEN {double Z = 13.1}
+	ELSE{double z = 4}
+}
+
+program 
+{ 
+	IF(a==b) THEN {double Z = 13.1} 
+	ELSE{double z = 4} 
+	REPEAT IF(z >= 7)
+	{
+		z = z + 1
+	}
+}

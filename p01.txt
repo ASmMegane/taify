@@ -1,0 +1,7 @@
+program
+{
+ int a=(-1)
+ float g=(34.56e-54)
+ cin a(5)
+ cout df
+}
